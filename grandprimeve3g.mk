@@ -44,7 +44,7 @@ PRODUCT_PACKAGES += \
 
 # Media config
 PRODUCT_PACKAGES += \
-	media_profiles.xml
+	media_profiles_V1_0.xml
 
 # Permissions
 PERMISSIONS_XML_FILES := \
