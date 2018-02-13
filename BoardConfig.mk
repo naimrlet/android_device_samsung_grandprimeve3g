@@ -155,6 +155,9 @@ TARGET_KERNEL_CONFIG := cyanogen_grandprimeve3g_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/grandprimeve3g
 TARGET_UPDATED_MALI := true
 
+# Graphics
+TARGET_USES_GRALLOC1 := true
+
 # Resolution
 TARGET_SCREEN_HEIGHT := 960
 TARGET_SCREEN_WIDTH := 540
