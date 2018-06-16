@@ -148,6 +148,9 @@ TARGET_BOARD_CAMERA_HDR_CAPTURE := true
 
 #use media extensions
 TARGET_USES_MEDIA_EXTENSIONS := true
+
+# Sensors
+TARGET_USES_SENSORS_WRAPPER := true
 ################################################################################
 
 # Kernel
