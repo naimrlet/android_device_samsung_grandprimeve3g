@@ -151,8 +151,9 @@ TARGET_USES_MEDIA_EXTENSIONS := true
 
 # Sensors
 TARGET_USES_SENSORS_WRAPPER := true
-################################################################################
+TARGET_SENSORS_HAS_NO_FLUSH := true
 
+################################################################################
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogen_grandprimeve3g_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/grandprimeve3g
