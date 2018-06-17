@@ -31,7 +31,7 @@ TARGET_SCREEN_WIDTH := 540
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/keylayout/sec_touchscreen.kl:system/usr/keylayout/sec_touchscreen.kl
+	$(LOCAL_PATH)/keylayout/sec_touchscreen.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/sec_touchscreen.kl
 
 # Camera
 PRODUCT_PACKAGES += \
