@@ -150,7 +150,6 @@ TARGET_BOARD_CAMERA_HDR_CAPTURE := true
 TARGET_USES_MEDIA_EXTENSIONS := true
 
 # Sensors
-TARGET_USES_SENSORS_WRAPPER := true
 TARGET_SENSORS_HAS_NO_FLUSH := true
 
 ################################################################################

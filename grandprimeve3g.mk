@@ -38,10 +38,6 @@ PRODUCT_PACKAGES += \
 	Snap \
 	camera.sc8830
 
-# Sensors
-PRODUCT_PACKAGES += \
-	sensors.sc8830
-
 # Media config
 PRODUCT_PACKAGES += \
 	media_profiles_V1_0.xml
